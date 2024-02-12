@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "name": "map25830",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::25830"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440328.939879364974331,
+                    4474260.697513277642429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    440625.059513523650821,
+                    4474222.138225086033344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {},
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4474222.138225086033344,
+                    440625.059513523650821
+                ]
+            }
+        }
+
+
+    ]
+}
