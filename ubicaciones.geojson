@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1744, 41.4036]
+      },
+      "properties": {
+        "ubicación": "Basílica de la Sagrada Familia",
+        "descripción": "La Basílica de la Sagrada Familia, es una obra maestra arquitectónica diseñada por el renombrado arquitecto catalán Antoni Gaudí. Esta impresionante iglesia, también conocida simplemente como la Sagrada Familia, es uno de los emblemas más reconocidos de Barcelona y una de las obras más famosas e inacabadas del mundo."
+
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.1527, 41.4145]
+      },
+      "properties": {
+        "ubicación": "Parque Güell",
+        "descripción": "El Parque Güell, también diseñado por el genio arquitectónico Antoni Gaudí, es un exquisito jardín público situado en la parte alta de Barcelona, España. Construido entre 1900 y 1914, este parque es un testimonio del estilo único y la creatividad sin igual de Gaudí, además de ser uno de los principales destinos turísticos de la ciudad."
+
+      }
+    }
+  ]
+}
